@@ -4,8 +4,7 @@ File penyusun tersebut diantaranya :
 - **Python**    
   Berisi file-file yang digunakan sebagai pendeteksi kerumunan.
   *PENTING* :
-  1. Untuk menggunakan file detector.py silahkan upload hasil training berupa ekstensi .weights
-  2. Simpan file .weights ke dalam folder Python/yolo-coco
+  1) Untuk menggunakan file detector.py silahkan upload hasil training berupa ekstensi .weights
+  2) Simpan file .weights ke dalam folder Python/yolo-coco
 
-Repository ini akan diperbarui secara berkala.  
-Tetap semangat! 
+Repository ini akan diperbarui secara berkala.
